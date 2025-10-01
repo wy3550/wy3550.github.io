@@ -22,7 +22,6 @@
 
 ---
 
----
 
 ## 👨‍💻 About Me
 Hi there! I'm **Wyclifee Ben Onyango** 🎓 **BBIT Graduate** | 💻 **IT Support Technician** | 🤖 **AI Enthusiast** | 🔐 **Cybersecurity Learner**  
