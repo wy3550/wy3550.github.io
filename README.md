@@ -1,11 +1,28 @@
 # Wyclifee Ben Onyango
 
+# Wycliffe Ben Onyango
+
 <table>
 <tr>
-<td width="180" style="vertical-align: top; text-align: center;">
-  <img src="profile.jpg" alt="Ben Wycliffe Onyango" width="150" style="border-radius: 50%; margin-bottom: 10px;"><br>
-  <strong>Wyclifee Ben Onyango</strong>
+<td width="160">
+<img src="profile.jpg" alt="Ben Wycliffe Onyango" width="150" style="border-radius: 50%;">
 </td>
+<td>
+
+<h2>Contact</h2>
+
+📧 <strong>Email:</strong> bwyclffe@gmail.com  
+📞 <strong>Phone:</strong> 0112 313 430  
+🏠 <strong>Address:</strong> P.O. Box 40100-8, Kisumu County, Kenya  
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/wycliffebenonyango">wycliffebenonyango</a>  
+🐱 <strong>GitHub:</strong> <a href="https://github.com/wy3550">wy3550</a>  
+
+</td>
+</tr>
+</table>
+
+---
+
 
 <td style="vertical-align: top; padding-left: 25px;">
   <h2>Contact</h2>
