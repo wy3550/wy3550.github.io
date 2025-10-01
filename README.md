@@ -3,20 +3,24 @@
 <table>
 <tr>
 <td width="160">
-<img src="https://raw.githubusercontent.com/wy3550/portfolio/main/profile.jpg" alt="Ben Wycliffe Onyango" width="150" style="border-radius: 50%;">
+<img src="profile.jpg" alt="Ben Wycliffe Onyango" width="150" style="border-radius: 50%;">
 </td>
 <td>
 
-## Contact
-- 📧 Email: bwyclffe@gmail.com  
-- 📞 Phone: 0112 313 430  
-- 🏠 Address: P.O. Box 40100-8, Kisumu County, Kenya  
-- 💼 [LinkedIn](https://www.linkedin.com/in/wycliffebenonyango)  
-- 🐱 [GitHub](https://github.com/wy3550)  
+<h2>Contact</h2>
+
+📧 <strong>Email:</strong> bwyclffe@gmail.com  
+📞 <strong>Phone:</strong> 0112 313 430  
+🏠 <strong>Address:</strong> P.O. Box 40100-8, Kisumu County, Kenya  
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/wycliffebenonyango">wycliffebenonyango</a>  
+🐱 <strong>GitHub:</strong> <a href="https://github.com/wy3550">wy3550</a>  
 
 </td>
 </tr>
 </table>
+
+---
+
 
 ---
 
