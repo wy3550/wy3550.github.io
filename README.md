@@ -1,4 +1,3 @@
-# Wyclifee Ben Onyango
 
 # Wycliffe Ben Onyango
 
@@ -22,19 +21,6 @@
 </table>
 
 ---
-
-
-<td style="vertical-align: top; padding-left: 25px;">
-  <h2>Contact</h2>
-
-  📧 **Email:** [bwyclffe@gmail.com](mailto:bwyclffe@gmail.com)  
-  📞 **Phone:** 0112 313 430  
-  🏠 **Address:** P.O. Box 40100, Kisumu, Kenya  
-  💼 **LinkedIn:** [linkedin.com/in/wycliffebenonyango](https://www.linkedin.com/in/wycliffebenonyango)  
-  🐱 **GitHub:** [github.com/wy3550](https://github.com/wy3550)
-</td>
-</tr>
-</table>
 
 ---
 
