@@ -58,6 +58,21 @@ I’m passionate about leveraging **technology to solve real-world problems**. W
 
 ---
 
+ ## 🎓 Academic Background
+
+- **Bachelor of Business Information Technology (BBIT)**  
+  *KCA University, Nairobi*  
+  📅 2021 – 2025  
+
+- **Kenya Certificate of Secondary Education (KCSE)**  
+  *Orero Secondary School, Ragwe – Homa Bay County*  
+  📅 2016 – 2019  
+
+- **Kenya Certificate of Primary Education (KCPE)**  
+  *Miwani Estate Primary School, Miwani – Kisumu County*  
+  📅 2007 – 2015
+
+
 ## Projects
 - 🚀 Portfolio Website  
 - 🤖 AI Chatbot Demo  
